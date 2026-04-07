@@ -1,5 +1,19 @@
 # Changelog
 
+## [6.2.0](https://github.com/ethpandaops/ethereum-package/compare/6.1.0...6.2.0) (2026-04-07)
+
+
+### Features
+
+* add native ePBS builder support via network_params ([#1348](https://github.com/ethpandaops/ethereum-package/issues/1348)) ([8ef4f0f](https://github.com/ethpandaops/ethereum-package/commit/8ef4f0fc3328d3c29a5e1ffd5ecee906ef37517a))
+* derive and inject builder BLS key into buildoor ([#1349](https://github.com/ethpandaops/ethereum-package/issues/1349)) ([b7ca0aa](https://github.com/ethpandaops/ethereum-package/commit/b7ca0aa4131ec8f6fc2d5f26430100c2a1b0f307))
+* zkboost prom ([#1345](https://github.com/ethpandaops/ethereum-package/issues/1345)) ([6efe92e](https://github.com/ethpandaops/ethereum-package/commit/6efe92e5ccb5706753cffea40c5054f0cf87219a))
+
+
+### Bug Fixes
+
+* Use beacon service name instead of ip_address to set cl-client url for buildoor ([#1346](https://github.com/ethpandaops/ethereum-package/issues/1346)) ([b2921f9](https://github.com/ethpandaops/ethereum-package/commit/b2921f99bd9cda1f3507195e1505fa3624d37504))
+
 ## [6.1.0](https://github.com/ethpandaops/ethereum-package/compare/6.0.0...6.1.0) (2026-04-01)
 
 
